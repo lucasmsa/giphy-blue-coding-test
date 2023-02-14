@@ -29,6 +29,7 @@ This application was built using the following technologies:
 - TypeScript
 - ESLint
 - Prettier
+- Styled-components
 
 ## Credits
 
