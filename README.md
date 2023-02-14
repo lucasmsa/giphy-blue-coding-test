@@ -32,4 +32,4 @@ This application was built using the following technologies:
 
 ## Credits
 
-This application was created by [Your Name] for a technical interview with Blue Coding. The Giphy API is used to fetch GIFs.
+This application was created by lucasmsa for a technical interview with Blue Coding. The Giphy API is used to fetch GIFs.
